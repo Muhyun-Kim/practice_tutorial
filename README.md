@@ -1,1 +1,1 @@
-# conflict のための README
+# 勉強のためのレポジトリ
